@@ -1,0 +1,14 @@
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\TechnoBrain_Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\bin\Debug\EmployeeHierarchy.dll
+C:\JosephChege_TechAssessment\ConsoleApplication1\ConsoleApplication1\bin\Debug\EmployeeHierarchy.pdb

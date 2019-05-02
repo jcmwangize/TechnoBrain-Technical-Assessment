@@ -1,0 +1,10 @@
+C:\TechnoBrain_Test\ConsoleApplication1\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.dll
+C:\TechnoBrain_Test\ConsoleApplication1\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+C:\TechnoBrain_Test\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojResolveAssemblyReference.cache
+C:\TechnoBrain_Test\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.dll
+C:\TechnoBrain_Test\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb
+C:\JosephChege_TechAssessment\ConsoleApplication1\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.dll
+C:\JosephChege_TechAssessment\ConsoleApplication1\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+C:\JosephChege_TechAssessment\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojResolveAssemblyReference.cache
+C:\JosephChege_TechAssessment\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.dll
+C:\JosephChege_TechAssessment\ConsoleApplication1\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb
